@@ -1,5 +1,5 @@
-import {Type, html} from 'https://doc.typable.dev/js/deps.js';
-import {Window} from 'https://doc.typable.dev/js/component/mod.js';
+import {Type, html} from 'https://repo.cloudos.batchcloud.de/core/deps.js';
+import {Window} from 'https://repo.cloudos.batchcloud.de/core/component/mod.js';
 
 export default class Terminal extends Window {
     static name = 'terminal-app';
