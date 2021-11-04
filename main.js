@@ -15,6 +15,7 @@ export default class Terminal extends Window {
         super();
         this.init();
     }
+    
     renderBody() {
         return html`
             <pre>
