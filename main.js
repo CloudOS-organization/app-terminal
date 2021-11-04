@@ -1,5 +1,5 @@
-import {Type, html} from '../../asset/js/deps.js';
-import {Window} from '../../asset/js/component/mod.js';
+import {Type, html} from 'https://doc.typable.dev/js/deps.js';
+import {Window} from 'https://doc.typable.dev/js/component/mod.js';
 
 export default class Terminal extends Window {
     static name = 'terminal-app';
